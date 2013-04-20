@@ -39,3 +39,8 @@ URxvt*boldFont: xft:Droid Sans Mono:bold:size=10:antialias=true:hinting=false
 URxvt*scrollBar: false
 URxvt*letterSpace: -1
 
+URxvt*perl-ext-common: default,matcher
+URxvt*urlLauncher: firefox
+URxvt*matcher.button: 1
+
+yeahconsole*term: urxvt
